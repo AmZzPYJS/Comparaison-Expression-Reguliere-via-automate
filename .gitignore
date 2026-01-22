@@ -1,0 +1,8 @@
+# Fichiers générés
+
+regexp
+regexp.tab.c
+regexp.tab.h
+regexp.yy.c
+main.py
+__pycache__/
